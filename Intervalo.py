@@ -1,5 +1,4 @@
-x = input()
-x = float(x)
+x = float(input())
 if 0 <= x <= 25:
     print('Intervalo [0,25]')
 if 25 < x <= 50:

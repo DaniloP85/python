@@ -1,5 +1,4 @@
-m = input()
-m = int(m)
+m = int(input())
 if m==1:
     print("January")
 if m==2:
